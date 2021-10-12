@@ -31,6 +31,7 @@ Este projeto foi desenvolvido em cima dos requisitos contidos no arquivo [Prova.
 * enums - enumerações utilizadas no projeto
 * exceptions - exceções customizadas referente a negócio
 * factory - classes auxiliares de conversão das propriedades vindas dos endpoints para entidades
+* report - classes auxiliares para os relatórios
 * repository - comunicação com o banco de dados
 * request - classes que representam os corpos das requisições
 * service - classes de serviço, responsáveis pela regra de negócio no processamento das requisições
